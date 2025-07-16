@@ -1,3 +1,3 @@
-# References
+#This is intended conflict
 
-* octocat 1 😈
+* this is my change
